@@ -1,0 +1,20 @@
+Options +Indexes
+
+# MORE INDEX INFORMATION
+IndexOptions +FoldersFirst
+IndexOptions +XHTML
+IndexOptions +HTMLTable
+
+## OPTIONAL
+# IndexOptions +FancyIndexing
+# IndexOptions +SuppressRules
+
+# HEADER FILE
+HeaderName header.html
+ 
+# FOOTER FILE
+ReadmeName ../footer.html
+
+# IGNORE BOTH FOOTER AND HEADER
+IndexIgnore .htaccess README.md 
+# extra2 extra3
