@@ -1,0 +1,1456 @@
+Aalstieg,12589,Rahnsdorf
+Abram-Joffe-Straße,12489,Adlershof
+Abtstraße,12489,Adlershof
+Abtweilerstr.,12559,Müggelheim
+Adlergestell,12439,Niederschöneweide
+Adlergestell,12489,Adlershof
+Adlergestell,12527,Grünau
+Adlergestell,12527,Schmöckwitz
+Adlershofer Straße,12557,Köpenick
+Adlerstraße,12526,Bohnsdorf
+Adolf-Heyden-Straße,12555,Köpenick
+Advokatensteig,12526,Bohnsdorf
+Agavensteig,12437,Baumschulenweg
+Agnes-Hacker-Straße,12524,Altglienicke
+Ahornallee,12587,Friedrichshagen
+Ahornallee,12555,Köpenick
+Ahornstr.,12589,Rahnsdorf
+Ahornweg,12587,Friedrichshagen
+Akademieplatz,12489,Adlershof
+Akazienhof,12524,Bohnsdorf
+Akeleiweg,12487,Johannisthal
+Albert-Einstein-Str.,12524,Adlershof
+Albert-Schweitzer-Straße,12587,Friedrichshagen
+Albineaplatz,12487,Johannisthal
+Alemannenstraße,12524,Altglienicke
+Alexander-Meißner-Straße,12526,Bohnsdorf
+Alexander-von-Humboldt-Weg,12489,Adlershof
+Alfonsstr.,12524,Altglienicke
+Alfred-Randt-Straße,12559,Köpenick
+Alice-Archenhold-Weg,12439,Niederschöneweide
+Alkenweg,12527,Grünau
+Allendeweg,12559,Köpenick
+Allmersweg,12487,Johannisthal
+Alpenrosenweg,12437,Baumschulenweg
+Alsenzer Weg,12559,Müggelheim
+Alte Kaulsdorfer Straße,12555,Köpenick
+Alter Fischerweg,12589,Rahnsdorf
+Alter Markt,12555,Köpenick
+Alter Schönefelder Weg,12524,Altglienicke
+Alter Segelfliegerdamm,12487,Johannisthal
+Altglienicker Grund,12524,Altglienicke
+Altgrabauer Straße,12555,Köpenick
+Altheider Straße,12489,Adlershof
+Alt-Köpenick,12555,Köpenick
+Alt-Müggelheim,12559,Müggelheim
+Alt-Schmöckwitz,12527,Schmöckwitz
+Alt-Treptow,12435,Treptow
+Am Adlergestell,12489,Adlershof
+Am Alten Fenn,12487,Johannisthal
+Am Alten Friedhof,12524,Altglienicke
+Am Amtsgraben,12559,Köpenick
+Am Bahndamm,12555,Köpenick
+Am Bahnhof Wuhlheide,12459,Oberschöneweide
+Am Bauernwäldchen,12559,Müggelheim
+Am Bauersee,12559,Müggelheim
+Am Berg,12559,Köpenick
+Am Bruchland,12524,Altglienicke
+Am Buckersberg,12487,Johannisthal
+Am Damm,12587,Friedrichshagen
+Am Eingang,12587,Friedrichshagen
+Am Ernst-Grube-Park,12555,Köpenick
+Am Falkenberg,12524,Altglienicke
+Am Filmlager,12555,Köpenick
+Am Flutgraben,12435,Treptow
+Am Freibad KGA,12459,Oberschöneweide
+Am Gartenstadtweg,12524,Bohnsdorf
+Am Generalshof,12555,Köpenick
+Am Glinigk,12524,Altglienicke
+Am Goldmannpark,12587,Friedrichshagen
+Am Grünen Anger,12487,Johannisthal
+Am Haselbusch,12487,Johannisthal
+Am Heidekampgraben KGA,12435,
+Am Kanal,12527,Grünau
+Am Kiesberg,12524,Altglienicke
+Am Kietzer Feld,12557,Köpenick
+Am Krusenick,12555,Köpenick
+Am Küstergarten,12589,Rahnsdorf
+Am Lindenbusch,12487,Johannisthal
+Am Maria-Jankowski-Park,12555,Köpenick
+Am Marienhain,12557,Köpenick
+Am Müggelberg,12559,Müggelheim
+Am Mühlenfließ,12589,Rahnsdorf
+Am Oder-Spree-Kanal,12527,Schmöckwitz
+Am Plänterwald,12435,Plänterwald
+Am Plumpengraben,12526,Bohnsdorf
+Am Pumpwerk,12524,Altglienicke
+Am Ruderverein,12527,Grünau
+Am Rundling,12487,Johannisthal
+Am Schloßberg,12559,Köpenick
+Am Schonungsberg,12589,Rahnsdorf
+Am Seddinsee,12527,Schmöckwitz
+Am Spielplatz,12559,Köpenick
+Am Stadtforst,12557,Köpenick
+Am Steilhang,12559,Müggelheim
+Am Stieggarten,12589,Rahnsdorf
+Am Studio,12489,Adlershof
+Am Treptower Park,12435,Plänterwald
+Am Werksgarten,12555,Köpenick
+Am Wiesengraben,12557,Köpenick
+Am Wiesenrain,12587,Friedrichshagen
+Am Wiesenweg,12524,Bohnsdorf
+Am Wildbusch,12559,Müggelheim
+Am Winkel,12524,Altglienicke
+Ambacher Straße,12555,Köpenick
+Ammerseestraße,12527,Grünau
+Amorstraße,12526,Bohnsdorf
+Amselstraße,12437,Baumschulenweg
+Amselweg,12526,Bohnsdorf
+Amtsstraße,12555,Köpenick
+An den Bänken,12589,Rahnsdorf
+An den Treptowers,12435,Treptow
+An der Brücke,12527,Grünau
+An der Dahme,12527,Grünau
+An der Filmfabrik,12555,Köpenick
+An der Himmelswiese,12559,Müggelheim
+An der Krummen Lake,12559,Müggelheim
+An der Wuhlheide,12459,Oberschöneweide
+An der Wuhlheide,12555,Köpenick
+Anemonenstraße,12559,Köpenick
+Angersteinweg,12555,Köpenick
+Anglerweg,12527,Schmöckwitz
+Ankerweg,12527,Grünau
+Anna-Seghers-Straße,12489,Adlershof
+Anne-Frank-Straße,12524,Altglienicke
+Annenallee,12555,Köpenick
+Annweilerweg,12559,Müggelheim
+Antoniuskirchstraße,12459,Oberschöneweide
+Apfelweg,12524,Altglienicke
+Apollostraße,12526,Bohnsdorf
+Appelbacher Weg,12559,Müggelheim
+Aprikosensteig,12437,Baumschulenweg
+Argenauer Straße,12555,Köpenick
+Argoallee,12527,Schmöckwitz
+Arndtplatz,12489,Adlershof
+Arndtstraße,12489,Adlershof
+Arthur-Müller-Straße,12487,Johannisthal
+Aschenbrödelstraße,12555,Köpenick
+Asseburgpfad,12555,Köpenick
+Aßmannstraße,12587,Friedrichshagen
+Atlantisring,12526,Bohnsdorf
+Auerswaldstraße,12524,Altglienicke
+Auf dem Oktagon,12489,Adlershof
+Auraser Weg,12526,Bohnsdorf
+Azaleenstraße,12555,Köpenick
+Bachstelzenweg,12589,Rahnsdorf
+Bachstraße,12526,Bohnsdorf
+Bachstraße,12555,Köpenick
+Bachwitzer Straße,12555,Köpenick
+Baderseestraße,12527,Grünau
+Bahnhofstraße,12555,Köpenick
+Bahnweg,12524,Altglienicke
+Bahnweg,12524,Altglienicke
+Bahrendorfer Straße,12555,Köpenick
+Baldinsteg,12487,Johannisthal
+Baldurstraße,12589,Rahnsdorf
+Baltenstraße,12524,Altglienicke
+Barbara-McClintock-Staße,12489,Adlershof
+Barbenweg,12557,Köpenick
+Bärdorfer Zeile,12489,Adlershof
+Bärenlauchstraße,12439,Niederschöneweide
+Bauernheideweg,12589,Rahnsdorf
+Baumschulenstraße,12437,Baumschulenweg
+Bausemerweg,12487,Johannisthal
+Becherbacher Straße,12559,Müggelheim
+Beelitzer Weg,12524,Altglienicke
+Beermannstraße,12435,Alt-Treptow
+Behringstraße,12437,Baumschulenweg
+Beiersdorfer Weg,12589,Rahnsdorf
+Bendemannstraße,12489,Adlershof
+Bendigstraße,12557,Köpenick
+Benno-König-Straße,12487,Johannisthal
+Bellevuestraße,12555,Friedrichshagen
+Berberitzenweg,12437,Baumschulenweg
+Bergaustraße,12437,Plänterwald
+Berghauser Straße,12559,Müggelheim
+Berghofer Weg,12589,Rahnsdorf
+Bergstraße,12559,Müggelheim
+Berlewitzweg,12557,Köpenick
+Bernstadter Weg,12489,Adlershof
+Bernulfstraße,12524,Altglienicke
+Berta-Waterstradt-Str.,12489,Adlershof
+Besenbinderstraße,12524,Altglienicke
+Betulaweg,12524,Altglienicke
+Beutenweg,12527,Schmöckwitz
+Biberpelzstraße,12589,Rahnsdorf
+Biebersdorfer Weg,12527,Schmöckwitz
+Binswangersteig,12526,Bohnsdorf
+Birkenstraße,12589,Rahnsdorf
+Birkenstraße,12526,Bohnsdorf
+Birkenstraße,12559,Köpenick
+Birkenweg,12526,Bohnsdorf
+Birkheidering,12527,Grünau
+Birkweilerstraße,12559,Müggelheim
+Birnbaumer Straße alle übrigen,12555,Köpenick
+Birnenweg,12524,Altglienicke
+Bischofstaler Straße,12555,Köpenick
+Blindschleichengang,12524,Altglienicke
+Blossiner Straße,12589,Rahnsdorf
+Blumenhain,12487,Johannisthal
+Blumeslake,12589,Rahnsdorf
+Bockmühlenweg,12557,Köpenick
+Bodelschwinghstraße,12437,Baumschulenweg
+Bodenreform,12524,Altglienicke
+Bogenstraße,12589,Rahnsdorf
+Böhmallee,12527,Schmöckwitz
+Bohnsdorfer Chaussee,12524,Altglienicke
+Bohnsdorfer Kirchsteig,12526,Bohnsdorf
+Bohnsdorfer Straße,12527,Grünau
+Bohnsdorfer Weg,12524,Altglienicke
+Bohrauer Pfad,12489,Adlershof
+Bölschestraße,12587,Friedrichshagen
+Borgmannstraße,12555,Köpenick
+Borretschweg,12587,
+Böttcherstraße,12555,Köpenick
+Bouchéstraße,12435,Alt-Treptow
+Boveristraße,12489,Adlershof
+Boviststr.,12526,Bohnsdorf
+Brandenburgplatz,12555,Köpenick
+Brassenpfad,12557,Köpenick
+Braunellenplatz,12524,Altglienicke
+Braunellensteig,12524,Altglienicke
+Breestpromenade,12587,Friedrichshagen
+Breite Gasse,12555,Köpenick
+Breiter Weg,12487,Johannisthal
+Brigittenweg,12524,Altglienicke
+Britzer Straße,12439,Niederschöneweide
+Brook-Taylor-Straße,12489,Adlershof
+Brösener Straße,12587,Friedrichshagen
+Brückenstraße,12589,Rahnsdorf
+Brückenstraße,12439,Niederschöneweide
+Brunhildweg,12487,Johannisthal
+Bruno-Bürgel-Weg,12439,Niederschöneweide
+Brunolfweg,12524,Altglienicke
+Bruno-Taut-Straße,12526,Bohnsdorf
+Bruno-Wille-Straße,12587,Friedrichshagen
+Büchnerweg,12489,Adlershof
+Budemannstraße,12489,Adlershof
+Bukesweg,12557,Köpenick
+Bulgarische Straße,12437,Plänterwald
+Buntzelstraße,12526,Bohnsdorf
+Buriger Weg,12589,Rahnsdorf
+Buschwindröschenweg,12526,Bohnsdorf
+Buttenstedtweg,12587,Friedrichshagen
+Büxensteinallee,12527,Grünau
+Cajamarcaplatz,12439,Niederschöneweide
+Cardinalplatz,12555,Köpenick
+Cardinalstraße,12555,Köpenick
+Carl-Scheele-Str.,12489,Adlershof
+Carl-Spindler-Str.,12555,Köpenick
+Cedernstraße,12559,Köpenick
+Champignonstr.,12526,Bohnsdorf
+Charlotte-E.-Pauly-Straße,12587,Friedrichshagen
+Charlottenstraße,12557,Köpenick
+Chaukenstraße,12524,Altglienicke
+Chiemseestraße,12527,Grünau
+Chorweilerstr.,12524,Altglienicke
+Chris-Gueffroy-Allee,12437,Baumschulenweg
+Cimbernstraße,12524,Altglienicke
+Claus-Dieter-Sprink-Weg,12555,Köpenick
+Coloniaallee,12524,Altglienicke
+Daheim Siedlung,12437,Baumschulenweg
+Daheimstraße,12555,Köpenick
+Dahlienstraße,12559,Köpenick
+Dahlienweg,12437,Baumschulenweg
+Dahlienweg KGA,12439,Niederschöneweide
+Dahlwitzer Landstraße,12587,Friedrichshagen
+Dahmestraße,12526,Bohnsdorf
+Dahmestraße,12527,Grünau
+Dämeritzstraße,12589,Rahnsdorf
+Dammheidestraße,12555,Köpenick
+Dammweg,12437,Plänterwald
+Dankmarsteig,12524,Altglienicke
+Dannenreicher Pfad,12589,Rahnsdorf
+Darsteiner Weg,12559,Müggelheim
+Däumlingsweg,12555,Köpenick
+Defreggerstraße,12435,Plänterwald
+Deulstraße,12459,Oberschöneweide
+Deutzer Steig,12524,Altglienicke
+Don-Ugoletti-Platz,12527,Grünau
+Dorfplatz,12526,Bohnsdorf
+Dorfstraße,12589,Rahnsdorf
+Dornbrunner Straße,12437,Baumschulenweg
+Dornröschenstraße,12555,Köpenick
+Dorothea-Viehmann-Str.,12524,Altglienicke
+Dorotheenstraße,12557,Köpenick
+Dörpfeldstraße,12489,Adlershof
+Drachholzstraße,12587,Friedrichshagen
+Draesekestraße,12487,Johannisthal
+Dregerhoffstraße,12557,Köpenick
+Dreiserstraße,12587,Friedrichshagen
+Drosselsteg,12527,Grünau
+Drosselweg,12589,Rahnsdorf
+Drössestraße,12524,Altglienicke
+Druschiner Straße,12555,Köpenick
+Drygalski-Insel,12559,Müggelheim
+Duchrother Straße,12559,Müggelheim
+Duftgeranienweg KGA Erpetal,12587,Friedrichshagen
+Ebelallee,12527,Schmöckwitz
+Ecksteinweg,12487,Johannisthal
+Edisonstraße,12459,Oberschöneweide
+Egersfelder Allee,12555,Köpenick
+Ehrenfelder Platz,12524,Altglienicke
+Ehrenfelder Straße,12524,Altglienicke
+Eibenweg,12487,Johannisthal
+Eibseestraße,12527,Grünau
+Eichbergstraße,12589,Rahnsdorf
+Eichbuschallee,12437,Plänterwald
+Eichbuschplatz,12526,Bohnsdorf
+Eichbuschstraße,12526,Bohnsdorf
+Eichbuschweg,12526,Bohnsdorf
+Eichenstraße,12589,Rahnsdorf
+Eichenstraße,12435,Alt-Treptow
+Eichgestell,12459,Oberschöneweide
+Eichwalder Aue,12527,Schmöckwitz
+Eigene Scholle KGA,12437,Baumschulenweg
+Eigenheim I und II KGA,12437,Baumschulenweg
+Eigenheimgasse,12489,Adlershof
+Einigkeit KGA,12437,Baumschulenweg
+Eintracht KGA,12437,Baumschulenweg
+Eisblumensteig,12439,Niederschöneweide
+Eiselenweg,12555,Köpenick
+Eisenhutweg,12487,Johannisthal
+Eisenhutweg,12489,Adlershof
+Eitelsdorfer Straße,12555,Köpenick
+Ekhofplatz,12557,Köpenick
+Ekhofstraße,12557,Köpenick
+Ekkehardstraße,12437,Baumschulenweg
+Elbeweg,12459,Oberschöneweide
+Elcknerplatz,12555,Köpenick
+Ellernweg,12487,Johannisthal
+Elmsteiner Weg,12559,Müggelheim
+Elsbruch,12589,Rahnsdorf
+Elseneck,12555,Köpenick
+Elsenstraße,12435,Alt-Treptow
+Elßnerweg,12559,Müggelheim
+Elstergrund,12527,Schmöckwitz
+Elstersteg,12527,Grünau
+Elsterstraße,12526,Bohnsdorf
+Elsterweg,12589,Rahnsdorf
+Emrichstraße,12587,Friedrichshagen
+Engelhardstraße,12487,Johannisthal
+Engelwurzweg,12587,Friedrichshagen
+Enkenbacher Weg,12559,Müggelheim
+Entenwall,12589,Rahnsdorf
+Eppenbrunner Weg,12559,Müggelheim
+Erich-Lodemann-Straße,12435,Plänterwald
+Erich-Lodemann-Straße,12437,Baumschulenweg
+Erich-Thilo-Straße,12489,Adlershof
+Erikastraße,12439,Niederschöneweide
+Erknerstraße,12589,Rahnsdorf
+Erlenbacher Steig,12559,Müggelheim
+Erlengrund,12524,Altglienicke
+Erlengrund,12527,Schmöckwitz
+Erlenstraße,12559,Köpenick
+Ernst-Augustin-Straße,12489,Adlershof
+Ernst-Grube-Straße,12555,Köpenick
+Ernst-Lau-Straße,12489,Adlershof
+Ernst-Ruska-Ufer,12524,Adlershof
+Ernststraße,12437,Baumschulenweg
+Ernst-Ziesel-Str.,12459,Oberschöneweide
+Erpetal KGA,12587,Friedrichshagen
+Erpeweg,12587,Friedrichshagen
+Erwin-Bock-Straße,12559,Köpenick
+Eschenweg,12487,Johannisthal
+Essenplatz,12555,Köpenick
+Ewaldstraße,12524,Altglienicke
+Fähenweg,12527,Grünau
+Fahlenbergstraße,12589,Rahnsdorf
+Fährallee,12527,Schmöckwitz
+Falkenbrunnstraße,12524,Altglienicke
+Falkendamm,12557,Köpenick
+Falkenhöhe,12524,Altglienicke
+Falkenstraße,12526,Bohnsdorf
+Fangschleuser Weg,12589,Rahnsdorf
+Fanny-Zobel-Straße,12435,Alt-Treptow
+Färberstraße,12555,Köpenick
+Farnstraße,12439,Niederschöneweide
+Fasanenstraße,12526,Bohnsdorf
+Fehleweg,12557,Köpenick
+Fehrower Steig,12527,Schmöckwitz
+Feldblumenweg,12557,Köpenick
+Feldstraße,12559,Müggelheim
+Feldweg,12437,Baumschulenweg
+Feldweg,12526,Bohnsdorf
+Felsenfest,12437,Baumschulenweg
+Fennstraße,12439,Niederschöneweide
+Fichtenauer Straße,12589,Rahnsdorf
+Fichtengrund,12527,Schmöckwitz
+Fichtestraße,12526,Bohnsdorf
+Fielitzstraße,12487,Johannisthal
+Filehner Straße,12555,Köpenick
+Finkeldeweg,12557,Köpenick
+Finkengasse,12527,Schmöckwitz
+Finkenschlag,12527,Grünau
+Finkenweg,12589,Rahnsdorf
+Firlstraße,12459,Oberschöneweide
+Flakenseestraße,12587,Friedrichshagen
+Flansweg,12557,Köpenick
+Flemmingstraße,12559,Köpenick
+Fliederstraße,12487,Johannisthal
+Fliederstraße,12559,Köpenick
+Fliederweg,12437,Baumschulenweg
+Fliederweg,12527,Schmöckwitz
+Fliegenpilzstraße,12526,Bohnsdorf
+Fließstraße,12526,Bohnsdorf
+Fließstraße,12439,Niederschöneweide
+Florastraße,12526,Bohnsdorf
+Florian-Geyer-Straße,12489,Adlershof
+Flutstraße,12439,Niederschöneweide
+Fokkerstraße,12487,Johannisthal
+Fontanestraße,12459,Oberschöneweide
+Forellensprung,12589,Rahnsdorf
+Formosa,12437,Baumschulenweg
+Forsthausallee,12437,Baumschulenweg
+Frankenbergstraße,12589,Rahnsdorf
+Frankenstraße,12524,Altglienicke
+Franz-Ehrlich-Straße,12489,Adlershof
+Frauenlobstraße,12437,Baumschulenweg
+Frau-Holle-Straße,12555,Köpenick
+Fraustadter Weg,12526,Bohnsdorf
+Fredersdorfer Weg,12589,Rahnsdorf
+Freienbrinker Saum,12589,Rahnsdorf
+Freiheit,12555,Köpenick
+Freystadter Weg,12489,Adlershof
+Friedenstraße,12489,Adlershof
+Friedenstraße,12555,Köpenick
+Friedlander Straße,12489,Adlershof
+Friedrich-List-Straße,12487,Johannisthal
+Friedrichshagener Straße,12555,Köpenick
+Friedrich-Wöhler-Straße,12489,Adlershof
+Friedrich-Wolf-Straße,12527,Grünau
+Friesenstraße,12524,Altglienicke
+Fritz-Kirsch-Zeile,12459,Oberschöneweide
+Fritz-König-Weg,12459,Oberschöneweide
+Fritz-Kühn-Str.,12526,Bohnsdorf
+Frohsinn KGA,12487,Johannisthal
+Froschsteg,12524,Altglienicke
+Fuchsbau,12527,Grünau
+Funkelgang,12557,Köpenick
+Fürstenwalder Allee,12589,Rahnsdorf
+Fürstenwalder Damm,12589,Rahnsdorf
+Fuststraße,12459,Oberschöneweide
+Futranplatz,12555,Köpenick
+Gaffelsteig,12527,Grünau
+Galileistraße,12435,Plänterwald
+Gartenstadtweg,12524,Altglienicke
+Gartenstraße,12526,Bohnsdorf
+Gartenstraße,12557,Köpenick
+Gartenweg,12487,Johannisthal
+Gärtnerweg,12524,Altglienicke
+Gaußstraße,12459,Oberschöneweide
+Gebrüder-Hirth-Straße,12526,Bohnsdorf
+Gehrenweg,12526,Bohnsdorf
+Gehsener Straße,12555,Köpenick
+Geinsheimer Weg,12559,Müggelheim
+Gellertstraße,12489,Adlershof
+Gelnitzstraße,12555,Köpenick
+Geltower Weg,12524,Altglienicke
+Gemeinschaftsstraße,12489,Adlershof
+Gemütliches Heim KGA,12487,Johannisthal
+Gemütlichkeit KGA,12437,Baumschulenweg
+Genossenschaftsstraße,12489,Adlershof
+Genovevastraße,12555,Köpenick
+Georg-Schendel-Straße,12489,Adlershof
+Gerhard-Sedlmayr-Straße,12487,Johannisthal
+Germanenplatz,12524,Altglienicke
+Germanenstraße,12524,Altglienicke
+Gernotweg,12487,Johannisthal
+Gerosteig,12524,Altglienicke
+Gersweileraue,12559,Müggelheim
+Gersweilerstraße,12559,Müggelheim
+Gilgenburger Pfad,12587,Friedrichshagen
+Gilgenburger Straße,12587,Friedrichshagen
+Ginkgoweg,12487,Johannisthal
+Gladiolenstraße,12559,Köpenick
+Glanzstraße,12437,Baumschulenweg
+Glasberger Straße,12555,Köpenick
+Glienicker Straße,12526,Bohnsdorf
+Glienicker Straße,12557,Köpenick
+Glienicker Weg,12489,Adlershof
+Glindower Weg,12524,Altglienicke
+Gloriastraße,12555,Köpenick
+Glottertaler Straße,12559,Müggelheim
+Godbersenstraße,12527,Schmöckwitz
+Goethestraße,12459,Oberschöneweide
+Goethestraße,12526,Bohnsdorf
+Goldsternweg,12524,Altglienicke
+Goldweide KGA,12487,Johannisthal
+Gondeker Straße,12437,Baumschulenweg
+Gorissenstraße,12487,Johannisthal
+Görsdorfer Straße,12555,Köpenick
+Gosener Damm,12559,Müggelheim
+Gosener Landstraße,12559,Müggelheim
+Gotenstraße,12524,Altglienicke
+Gottfried-Klemm-Straße,12459,Oberschöneweide
+Gottfried-Leibniz-Str.,12489,Adlershof
+Grabenstraße,12526,Bohnsdorf
+Grabowstraße,12435,Alt-Treptow
+Grasehorstweg,12589,Rahnsdorf
+Grätzwalder Straße,12589,Rahnsdorf
+Grauammerpfad,12527,Grünau
+Greifstraße,12487,Johannisthal
+Grenzallee,12487,Johannisthal
+Grenzbergeweg,12589,Rahnsdorf
+Grenzstraße,12487,Johannisthal
+Grenzweg,12459,Oberschöneweide
+Grenzweg,12589,Rahnsdorf
+Gretelstraße,12524,Altglienicke
+Griechische Allee,12459,Oberschöneweide
+Grillenweg,12587,Friedrichshagen
+Grimaustraße,12439,Niederschöneweide
+Groß-Berliner Damm,12487,Johannisthal
+Groß-Berliner-Damm,12489,Adlershof
+Großstraße,12459,Oberschöneweide
+Grottewitzstraße,12526,Bohnsdorf
+Grottewitzwanderweg,12559,Müggelheim
+Grünauer Straße,12439,Niederschöneweide
+Grünauer Straße,12557,Köpenick
+Grünauer Straße,12526,Bohnsdorf
+Grünauer Straße,12524,Altglienicke
+Grünauer Weg,12527,Schmöckwitz
+Grünbergallee,12526,Bohnsdorf
+Gründerstraße,12526,Bohnsdorf
+Grüne Aue,12487,Johannisthal
+Grüne Aue,12459,Oberschöneweide
+Grüne Trift,12557,Köpenick
+Grüne Trift am Walde,12557,Köpenick
+Grünelinder Straße,12589,Rahnsdorf
+Grüner Weg,12487,Johannisthal
+Grünfinkenweg,12526,Bohnsdorf
+Grünfließer Gang,12587,Friedrichshagen
+Grünheider Weg,12589,Rahnsdorf
+Grünstadter Weg,12559,Müggelheim
+Grünstraße,12555,Köpenick
+Güldenauer Weg,12555,Köpenick
+Güldenhofer Ufer,12437,Baumschulenweg
+Gudunweg (KGA),12487,Späthsfelde
+Gunterweg,12487,Johannisthal
+Guntherstraße,12524,Altglienicke
+Gustav-Kirchhoff-Str.,12489,Adlershof
+Gustelstraße,12524,Altglienicke
+Gutenbergstraße,12557,Köpenick
+Güttlander Straße,12589,Rahnsdorf
+Habichtstraße,12526,Bohnsdorf
+Hackenbergstraße,12489,Adlershof
+Haeckelstraße,12487,Johannisthal
+Hagedornstraße,12487,Johannisthal
+Hahns Mühle,12587,Friedrichshagen
+Hainstraße,12439,Niederschöneweide
+Hallberger Zeile,12437,Baumschulenweg
+Hallgarter Steig,12559,Müggelheim
+Hamburger Straße,12589,Rahnsdorf
+Hämmerlingstraße,12555,Köpenick
+Handjerystraße,12489,Adlershof
+Hangelsberger Gang,12589,Rahnsdorf
+Hänselstraße,12437,Baumschulenweg
+Hans-Schmidt-Straße,12489,Adlershof
+Hans-Thoma-Straße,12435,Plänterwald
+Hanuschkestraße,12487,Johannisthal
+Harmonie,12437,Baumschulenweg
+Harnischweg,12555,Köpenick
+Harrosteig,12524,Altglienicke
+Hartlebenstraße,12587,Friedrichshagen
+Hartriegelstraße,12439,Niederschöneweide
+Harzer Straße,12435,Alt-Treptow
+Hasenlauf,12527,Grünau
+Hasensteg,12487,Johannisthal
+Hasselwerderstraße,12439,Niederschöneweide
+Hassoweg,12524,Altglienicke
+Haushoferstraße,12487,Johannisthal
+Havelweg,12459,Oberschöneweide
+Havestadtplatz,12489,Adlershof
+Hechtstraße,12589,Rahnsdorf
+Heckenweg,12527,Schmöckwitz
+Hederichweg,12487,Johannisthal
+Hegemeisterweg,12589,Rahnsdorf
+Heide am Wasser KGA,12487,Johannisthal
+Heidekampweg,12437,Baumschulenweg
+Heidekrugstraße,12555,Köpenick
+Heidelandstraße,12589,Rahnsdorf
+Heidelbeerweg,12526,Bohnsdorf
+Heidelberger Straße,12435,Alt-Treptow
+Heidemühler Weg,12437,Baumschulenweg
+Heideweg,12487,Johannisthal
+Heimatscholle,12437,Baumschulenweg
+Heimgartenstraße,12559,Köpenick
+Heinrich-Mirbach-Straße,12487,Johannisthal
+Heisterbachstraße,12559,Müggelheim
+Helbigstraße,12489,Adlershof
+Helmholtzstraße,12459,Oberschöneweide
+Henningweg,12524,Altglienicke
+Henriette-Lustig-Straße,12555,Köpenick
+Herkomerstraße,12437,Plänterwald
+Hermann-Dorner-Allee,12489,Adlershof
+Hermanns Ruh,12487,Johannisthal
+Herrenhausstraße,12487,Johannisthal
+Herulerstraße,12524,Altglienicke
+Herweghstraße,12487,Johannisthal
+Herzfelder Steig,12589,Rahnsdorf
+Heubergerweg,12487,Johannisthal
+Hinter dem Kurpark,12587,Friedrichshagen
+Hinter der Düne,12559,Müggelheim
+Hirschgartenstraße,12587,Friedrichshagen
+Hirschgartenstraße,12555,Köpenick
+Hirschsprung,12587,Friedrichshagen
+Hirseländerweg,12559,Müggelheim
+Hirtenfließ,12527,Schmöckwitz
+Hirtengarten,12557,Köpenick
+Hirteplatz,12587,Friedrichshagen
+Hirtestraße,12555,Köpenick
+Hochlandstraße,12589,Rahnsdorf
+Hoernlestraße,12555,Köpenick
+Hoevelstraße,12487,Johannisthal
+Hoffmannstraße,12435,Treptow
+Hoffmannstraße,12489,Adlershof
+Hoffnung KGA,12437,Baumschulenweg
+Hohenberger Steig,12589,Rahnsdorf
+Hohenbinder Steig,12589,Rahnsdorf
+Hohenbirker Weg,12437,Baumschulenweg
+Hohenkircher Allee,12555,Köpenick
+Höhensteig,12526,Bohnsdorf
+Hoher Weg,12587,Friedrichshagen
+Hollstraße,12489,Adlershof
+Holunderbusch KGA,12437,Baumschulenweg
+Hoppendorfer Straße,12555,Köpenick
+Horchheimer Weg,12559,Müggelheim
+Hornbacher Weg,12559,Müggelheim
+Hornkleepfad,12524,Altglienicke
+Horst-Kunze-Weg,12527,Grünau
+Hortwinkeler Weg,12589,Rahnsdorf
+Hubertusstraße,12589,Rahnsdorf
+Hufenweg,12526,Bohnsdorf
+Hugo-Junkers-Straße,12487,Johannisthal
+Hugo-Wolf-Steig,12557,Köpenick
+Hundsfelder Straße,12526,Bohnsdorf
+Husstraße,12489,Adlershof
+Hüttendorfer Weg,12526,Bohnsdorf
+Igelsteig,12557,Köpenick
+Igo-Ettrich-Straße,12487,Adlershof
+Im Haselwinkel,12589,Rahnsdorf
+Im Winkel,12589,Rahnsdorf
+Imkerweg,12589,Schmöckwitz
+Ingrid-Goltzsche-SchwarzStraße,12587,Friedrichshagen
+Insel am Bauersee,12559,Müggelheim
+Insel Am Walloch,12559,Müggelheim
+Insel Drygalski,12559,Müggelheim
+Insel Entenwall,12589,Rahnsdorf
+Inselstraße,12589,Rahnsdorf
+Iselersteig,12524,Altglienicke
+Isingstraße,12435,Alt-Treptow
+Jackyallee,12527,Schmöckwitz
+Jacp-Phillipp-Rauch-Straße,12559,Müggelheim
+Jagen,12527,Grünau
+Jagen,12527,Schmöckwitz
+Jägerstraße,12526,Bohnsdorf
+Jägerstraße,12555,Köpenick
+Jahnstraße,12526,Bohnsdorf
+James-Franck-Straße,12489,Adlershof
+Janitzkystraße,12555,Köpenick
+Jastrower Weg,12587,Friedrichshagen
+Joachimstraße,12526,Bohnsdorf
+Joachimstraße,12555,Köpenick
+Johanna-Tesch-Straße,12439,Niederschöneweide
+Johannes-Kraaz-Straße,12459,Oberschöneweide
+Johannes-Sasse-Ring,12487,Johannisthal
+Johannes-Tobei-Straße,12526,Bohnsdorf
+Johannes-Werner-Straße,12487,Johannisthal
+Johann-Hittorf-Straße (tlw.),12489,Adlershof
+Johannisthaler Chaussee,12437,Baumschulenweg
+Johann-Jacob-Baeyer-Straße,12559,Müggelheim
+Johstweg,12557,Köpenick
+Jordanstraße,12435,Alt-Treptow
+Josef-Nawrocki-Straße,12587,Friedrichshagen
+Judisgasse,12557,Köpenick
+Julius-Hart-Straße,12587,Friedrichshagen
+Jungfernsteg,12524,Altglienicke
+Jupiterstraße,12524,Altglienicke
+Justus-von-Liebig-Str.,12489,Adlershof
+Kablower Weg,12526,Bohnsdorf
+Kageler Weg,12589,Rahnsdorf
+Kalkbergeweg,12589,Rahnsdorf
+Kalker Str.,12524,Altglienicke
+Kalkseestraße,12587,Friedrichshagen
+Kallbacher Straße,12559,Müggelheim
+Kanalstraße,12589,Rahnsdorf
+Kanutenweg,12527,Grünau
+Karl-Frank-Straße,12587,Friedrichshagen
+Karl-Kunger-Straße,12435,Alt-Treptow
+Karl-Otto-Reinsch-Straße,12489,Adlershof
+Karl-Pokern-Straße,12587,Friedrichshagen
+Karlshorster Straße,12439,Niederschöneweide
+Karlshorster Straße,12439,Niederschöneweide
+Karlstraße,12526,Bohnsdorf
+Karlstraße,12557,Köpenick
+Karl-Ziegler-Straße,12489,Adlershof
+Karolinenhofweg,12527,Schmöckwitz
+Karpfenteichstraße,12437,Plänterwald
+Karutzseeweg,12587,Friedrichshagen
+Kasinostraße,12487,Johannisthal
+Kasperstraße,12524,Altglienicke
+Kastanienallee,12587,Friedrichshagen
+Kastanienweg,12524,Altglienicke
+Katharina-Boll-DornbergerStraße,12489,Adlershof
+Kattenstraße,12524,Altglienicke
+Katzengraben,12555,Köpenick
+Katzengrabensteg,12555,Köpenick
+Kaumanns Gasse,12557,Köpenick
+Kekuléstr.,12489,Adlershof
+Keltensteig,12524,Altglienicke
+Keplerstraße,12459,Oberschöneweide
+Kiefernstraße,12487,Johannisthal
+Kiefholzstraße,12435,Treptow
+Kiefholzstraße,12437,Baumschulenweg
+Kiefholzstraße,12437,Baumschulenweg
+Kiehnwerderallee,12437,Plänterwald
+Kiekebuschstraße,12555,Köpenick
+Kienappelweg,12557,Köpenick
+Kietz,12557,Köpenick
+Kietzer Straße,12555,Köpenick
+Kilianistraße,12459,Oberschöneweide
+Kinzerallee,12555,Köpenick
+Kinzerallee,12555,Köpenick
+Kirchsteig,12526,Bohnsdorf
+Kirchsteig,12524,Altglienicke
+Kirchstraße,12589,Rahnsdorf
+Kirchstraße,12555,Köpenick
+Kirschallee,12437,Baumschulenweg
+Kirschenbaumstraße,12524,Altglienicke
+Kirschweg,12524,Altglienicke
+Kirsteinstraße,12559,Müggelheim
+Klafterzeile,12559,Müggelheim
+Klarastraße,12459,Oberschöneweide
+Kleeblattstraße,12524,Altglienicke
+Kleinbauersweg,12487,Johannisthal
+Kleine Lindenstr.,12526,Bohnsdorf
+Kleine Spechtstraße,12526,Bohnsdorf
+Kleine Waldstr.,12526,Bohnsdorf
+Kleiner Mohnweg,12524,Altglienicke
+Kleingartenstraße,12559,Köpenick
+Kleinschewskystraße,12555,Köpenick
+Klepschweg,12557,Köpenick
+Klettenberger Str.,12524,Altglienicke
+Kletterrosenweg,12526,Bohnsdorf
+Klingenburger Straße,12555,Köpenick
+Klingerstraße,12437,Plänterwald
+Klondyke,12557,Köpenick
+Klutstraße,12587,Friedrichshagen
+Knospengrund,12524,Altglienicke
+Kochelseestraße,12527,Grünau
+Köllnische Straße,12439,Niederschöneweide
+Kolpiner Weg,12589,Rahnsdorf
+Kolpiner Weg,12589,Rahnsdorf
+Königsheideweg,12487,Baumschulenweg
+Königsheideweg,12487,Johannisthal
+Königsseestraße,12527,Grünau
+Konrad-Zuse-Straße,12489,Adlershof
+Köpenicker Allee,12459,Oberschöneweide
+Köpenicker Landstraße,12437,Baumschulenweg
+Köpenicker Straße,12489,Adlershof
+Köpenicker Straße,12487,Johannisthal
+Köpenicker Straße,12524,Altglienicke
+Köpenzeile,12557,Köpenick
+Korkedamm,12524,Altglienicke
+Koschatweg,12487,Johannisthal
+Kottmeierstraße,12459,Oberschöneweide
+Krähenhorst,12527,Schmöckwitz
+Krampenburger Weg,12559,Müggelheim
+Kranichstraße,12526,Bohnsdorf
+Krimnitzer Weg,12527,Schmöckwitz
+Kroneckerstraße,12489,Adlershof
+Krötengasse,12524,Altglienicke
+Krugauer Steig,12527,Schmöckwitz
+Kruggasse,12589,Rahnsdorf
+Krüllsstraße,12435,Alt-Treptow
+Krumme Straße,12437,Baumschulenweg
+Krumme Straße,12526,Bohnsdorf
+Kuckuckssteig,12589,Rahnsdorf
+Kunheimstraße,12459,Oberschöneweide
+Kunibertstraße,12524,Altglienicke
+Kürißweg,12557,Köpenick
+Kurze Straße,12487,Johannisthal
+Kurzer Steig,12587,Friedrichshagen
+Kurzer Weg,12437,Baumschulenweg
+Kurzestraße,12437,Baumschulenweg
+Küsterwiesen,12589,Rahnsdorf
+Lachsfang,12589,Rahnsdorf
+Lagunenweg,12589,Rahnsdorf
+Lahmertstraße,12527,Grünau
+Lakegrund,12437,Baumschulenweg
+Landfliegerstraße,12487,Johannisthal
+Landgartenweg,12557,Köpenick
+Landjägerstraße,12555,Köpenick
+Langer Weg,12437,Baumschulenweg
+Langerhansstraße,12555,Köpenick
+Langewahler Weg,12589,Rahnsdorf
+Langfuhrer Allee,12589,Rahnsdorf
+Lassallestraße,12589,Rahnsdorf
+Laubnitzer Pfad,12527,Grünau
+Lauffener Straße,12459,Oberschöneweide
+Laurenzstraße,12555,Köpenick
+Lauriensteg,12487,Johannisthal
+Leberblumenweg,12524,Altglienicke
+Lehmfeldsteig,12524,Altglienicke
+Lehmusstraße,12524,Altglienicke
+Leiblstraße,12437,Plänterwald
+Lerchenfeld,12437,Baumschulenweg
+Lerchenhöhe,12437,Baumschulenweg
+Lerchenstraße,12437,Baumschulenweg
+Lerchenweg,12589,Rahnsdorf
+Leschnitzer Straße,12526,Bohnsdorf
+Lessingstraße,12526,Bohnsdorf
+Lettweilerstraße,12559,Müggelheim
+Lexisstraße,12435,Alt-Treptow
+Lianenweg,12524,Altglienicke
+Libboldallee,12527,Grünau
+Liebstadter Gang,12587,Friedrichshagen
+Lienhardweg,12557,Köpenick
+Lieselstraße,12524,Altglienicke
+Ligusterweg,12437,Baumschulenweg
+Lindenallee,12587,Friedrichshagen
+Lindenblütenstraße,12526,Bohnsdorf
+Lindenhof,12555,Köpenick
+Lindenstraße,12589,Rahnsdorf
+Lindenstraße,12559,Müggelheim
+Lindenstraße,12526,Bohnsdorf
+Lindenstraße,12527,Schmöckwitz
+Lindenstraße,12555,Köpenick
+Lindenthal KGA,12487,Johannisthal
+Lindenweg,12487,Johannisthal
+Linderoder Weg,12527,Grünau
+Lindhorstweg,12487,Johannisthal
+Löbauer Weg,12587,Friedrichshagen
+Lobitzweg,12557,Köpenick
+Löcknitzstraße,12587,Friedrichshagen
+Logauweg,12557,Köpenick
+Lohmühlenstraße,12435,Alt-Treptow
+Lohnauer Steig,12489,Adlershof
+Lokiweg,12487,Johannisthal
+Lossowweg,12557,Köpenick
+Louis-Blériot-Straße,12487,Johannisthal
+Lübbenauer Weg,12527,Schmöckwitz
+Lüdersstraße,12555,Köpenick
+Ludwig-Boltzmann-Straße,12489,Adlershof
+Ludwig-Klapp-Straße,12437,Baumschulenweg
+Ludwig-Prandtl-Straße,12526,Bohnsdorf
+Ludwig-Richter-Straße,12437,Plänterwald
+Ludwigshöheweg,12559,Müggelheim
+Luisenstraße,12557,Köpenick
+Lummenweg,12527,Grünau
+Lunapark,12524,Altglienicke
+Lutherstraße,12589,Rahnsdorf
+Lutizenstr.,12524,Altglienicke
+Lutz-Schmidt-Straße,12524,Altglienicke
+Magazinstraße,12437,Baumschulenweg
+Magnusstr.,12489,Adlershof
+Mahlower Straße,12557,Köpenick
+Mahlsdorfer Straße,12555,Köpenick
+Mahonienweg,12437,Baumschulenweg
+Malvenweg,12524,Altglienicke
+Mandelblütenweg,12526,Bohnsdorf
+Mandrellaplatz,12555,Köpenick
+Mariannensteig,12589,Rahnsdorf
+Mariannenstraße,12527,Schmöckwitz
+Marienhütter Weg,12557,Köpenick
+Marienstraße,12459,Oberschöneweide
+Marientaler Straße,12437,Baumschulenweg
+Marienwerderweg,12587,Friedrichshagen
+Markomannenstraße,12524,Altglienicke
+Markstädter Straße,12555,Köpenick
+Markulfweg,12524,Altglienicke
+Martin-Hoffmann-Straße,12435,Alt-Treptow
+Maßholderweg,12524,Altglienicke
+Mathildenstraße,12459,Oberschöneweide
+Matthesstraße,12435,Alt-Treptow
+Max-Born-Straße,12489,Adlershof
+Max-Planck-Str.,12489,Adlershof
+Mayschweg,12557,Köpenick
+Megedestraße,12487,Johannisthal
+Mehldornpfad,12524,Altglienicke
+Meinolfstraße,12524,Altglienicke
+Meisenheimer Straße,12559,Müggelheim
+Melitta-Schiller-Straße,12526,Bohnsdorf
+Melli-Beese-Straße,12487,Johannisthal
+Mengerzeile,12435,Alt-Treptow
+Mentelinstraße,12459,Oberschöneweide
+Mentzelstraße,12557,Köpenick
+Merkurstraße,12526,Bohnsdorf
+Merlitzstraße,12489,Adlershof
+Mettkauer Weg,12526,Bohnsdorf
+Michael-Brückner-Straße,12439,Niederschöneweide
+Miersdorfer Straße,12527,Schmöckwitz
+Militscher Weg,12555,Köpenick
+Minkwitzweg,12557,Köpenick
+Mirabellenweg,12524,Altglienicke
+Mittelbrunner Steig,12559,Müggelheim
+Mittelheide,12555,Köpenick
+Mittelweg,12487,Johannisthal
+Mittelweg,12524,Altglienicke
+Mohnblütenweg,12526,Bohnsdorf
+Mohnweg,12524,Altglienicke
+Moissistraße,12489,Adlershof
+Molchstraße,12524,Altglienicke
+Möllenseestraße,12587,Friedrichshagen
+Möllhausenufer,12557,Köpenick
+Mönchsheimer Straße,12589,Rahnsdorf
+Moosdorfstraße,12435,Plänterwald
+Moosstraße,12439,Niederschöneweide
+Morgensonne KGA,12437,Baumschulenweg
+Mörikestraße,12437,Baumschulenweg
+Moritz-Seeler-Straße,12489,Adlershof
+Moselweg,12459,Oberschöneweide
+Mosischstraße,12437,Baumschulenweg
+Moßkopfring,12527,Schmöckwitz
+Mozartstraße,12555,Köpenick
+Müggelbergallee,12557,Köpenick
+Müggelbergplatz,12557,Köpenick
+Müggelheimer Damm,12559,Müggelheim
+Müggelheimer Straße,12555,Köpenick
+Müggelhortsiedlung,12559,Köpenick
+Müggellandstraße,12559,Müggelheim
+Müggelschlößchenweg,12559,Köpenick
+Müggelseedamm,12587,Friedrichshagen
+Müggelspreeweg,12589,Rahnsdorf
+Müggelwerderweg,12589,Rahnsdorf
+Mühlbergstraße,12487,Johannisthal
+Mühlenstraße,12587,Friedrichshagen
+Mühlenweg,12589,Rahnsdorf
+Mühlenweg,12526,Bohnsdorf
+Mühlenwiese-Finkenheerd,12589,Rahnsdorf
+Mühltaler Straße,12555,Köpenick
+Mühlweg,12587,Friedrichshagen
+Müllroser Straße,12587,Friedrichshagen
+Münchweilersteig,12559,Müggelheim
+Mundolfstraße,12524,Altglienicke
+Müngersdorfer Straße,12524,Altglienicke
+Myliusgarten,12587,Friedrichshagen
+Nalepastraße,12459,Oberschöneweide
+Narzissenweg,12524,Altglienicke
+Naturfreunde KGA,12437,Baumschulenweg
+Nelkenweg,12437,Baumschulenweg
+Nelkenweg,12524,Altglienicke
+Neltestraße,12489,Adlershof
+Neptunstraße,12526,Bohnsdorf
+Neue Krugallee,12435,Baumschulenweg
+Neue Späthstraße,12437,Baumschulenweg
+Neue Wiese,12557,Köpenick
+Neuer Garten II II KGA,12524,Altglienicke
+Neuer Krug,12589,Rahnsdorf
+Neuer Weg,12587,Friedrichshagen
+Neuhelgoland,12559,Müggelheim
+Neuhelgoländer Weg,12559,Müggelheim
+Neukrummendamm,12587,Friedrichshagen
+Neuseeland KGA,12487,Johannisthal
+Newtonstraße,12489,Adlershof
+Nibelungenweg,12524,Altglienicke
+Nickelswalder Straße,12589,Rahnsdorf
+Niebergallstraße,12557,Köpenick
+Nieberstraße,12487,Johannisthal
+Nipkowstraße,12489,Adlershof
+Nippeser Straße,12524,Altglienicke
+Nixenstraße,12459,Oberschöneweide
+Nordstraße,12487,Johannisthal
+Norheimer Straße,12559,Müggelheim
+Normannenplatz,12524,Altglienicke
+Normannenstraße,12524,Altglienicke
+North-Willys-Straße,12489,Adlershof
+Nuscheweg,12527,Schmöckwitz
+Oberer Damm,12437,Baumschulenweg
+Oberspree KGA,12459,Oberschöneweide
+Oberspreestraße,12489,Adlershof
+Odernheimer Straße,12559,Müggelheim
+Oettingstraße,12555,Köpenick
+Onckenstraße,12435,Alt-Treptow
+Ontarioweg,12524,Altglienicke
+Orionstraße,12437,Plänterwald
+Ortolfstraße,12524,Altglienicke
+Ortwinweg,12487,Johannisthal
+Osmer-Klemm-Straße,12459,Oberschöneweide
+Ostendorfstraße,12557,Köpenick
+Ostendstraße,12459,Oberschöneweide
+Ostritzer Straße,12489,Adlershof
+Oststraße,12487,Johannisthal
+Ostweg,12487,Johannisthal
+Otterstraße,12524,Altglienicke
+Otto-Franke-Straße,12489,Adlershof
+Otto-Krüger-Zeile,12459,Oberschöneweide
+Ottomar-Geschke-Straße,12555,Köpenick
+Pablo-Neruda-Straße,12559,Köpenick
+Paradiesstraße,12526,Bohnsdorf
+Parchauer Weg,12526,Bohnsdorf
+Parchwitzer Straße,12526,Bohnsdorf
+Parksteig,12527,Grünau
+Parkstraße,12459,Oberschöneweide
+Parkweg,12435,Alt-Treptow
+Parrisiusstraße,12555,Köpenick
+Parsevalstraße,12459,Oberschöneweide
+Paul-Rahn-Weg,12589,Rahnsdorf
+Paul-Tropp-Straße,12459,Oberschöneweide
+Peenestr.,12524,Altglienicke
+Peetzseestraße,12587,Friedrichshagen
+Pegasuseck,12524,Altglienicke
+Peitzer Weg,12527,Schmöckwitz
+Pelzlakeweg,12559,Müggelheim
+Perlpilzstr.,12526,Bohnsdorf
+Pestalozzistraße,12557,Köpenick
+Peter-Behrens-Straße,12459,Oberschöneweide
+Peter-Gast-Weg,12557,Köpenick
+Peter-Hille-Straße,12587,Friedrichshagen
+Petershagener Weg,12589,Rahnsdorf
+Petersilienweg,12587,Friedrichshagen
+Pfalz-Zweibrücker Weg,12559,Müggelheim
+Pfarrer-Goosmann-Straße,12489,Adlershof
+Pfarrwöhrde,12524,Altglienicke
+Pfeiffergasse,12587,Friedrichshagen
+Pfingstberggasse,12489,Adlershof
+Pfirsichweg,12524,Altglienicke
+Pflanzerweg,12487,Johannisthal
+Pflanzgartenplatz,12555,Köpenick
+Pflanzgartenstraße,12555,Köpenick
+Philipp-Jacob-Rauch-Straße,12559,Müggelheim
+Piepertswinkel,12555,Köpenick
+Pietschkerstraße,12487,Johannisthal
+Pilotenstraße,12487,Johannisthal
+Pitschener Straße,12526,Bohnsdorf
+Platanenweg,12437,Plänterwald
+Platz am Kaisersteg,12459,Oberschöneweide
+Platz am Spreetunnel,12435,Treptow
+Platz der Befreiung,12489,Adlershof
+Plehmpfad,12557,Köpenick
+Plesser Straße,12435,Alt-Treptow
+Plönzeile,12459,Oberschöneweide
+Plutoweg,12589,Rahnsdorf
+Poggendorffweg,12459,Oberschöneweide
+Pohlestraße,12557,Köpenick
+Polkwitzer Straße,12526,Bohnsdorf
+Polluxring,12524,Altglienicke
+Porzer Straße,12524,Altglienicke
+Pretschener Weg,12527,Schmöckwitz
+Preußenstraße,12524,Altglienicke
+Prieborner Straße,12526,Bohnsdorf
+Priesterweg,12487,Johannisthal
+Prillwitzstraße,12487,Johannisthal
+Pritstabelstraße,12557,Köpenick
+Puchanstraße,12555,Köpenick
+Puderstraße,12437,Plänterwald
+Puschkinallee,12435,Alt-Treptow
+Püttbergeweg,12589,Rahnsdorf
+Quaritzer Straße,12526,Bohnsdorf
+Rabindranath-Tagore-Straße,12527,Grünau
+Radduscher Weg,12527,Schmöckwitz
+Radenzer Straße,12437,Baumschulenweg
+Radickestraße,12489,Adlershof
+Ragower Weg,12527,Schmöckwitz
+Rahnsdorfer Straße,12587,Friedrichshagen
+Rainweg,12527,Schmöckwitz
+Randolfstr.,12524,Altglienicke
+Rapunzelstr.,12524,Altglienicke
+Rathenaustraße,12459,Oberschöneweide
+Rauener Weg,12587,Friedrichshagen
+Raumbacher Straße,12559,Müggelheim
+Rautendeleinweg,12555,Köpenick
+Mühle,12587,Friedrichshagen
+Ravensteiner Promenade,12587,Friedrichshagen
+Rebenweg,12524,Altglienicke
+Redwitzgang,12487,Johannisthal
+Regattastraße,12527,Grünau
+Rehborner Straße,12559,Müggelheim
+Rehfeldtstraße,12527,Schmöckwitz
+Rehpfuhl,12524,Altglienicke
+Reichweilerweg,12559,Müggelheim
+Reihersteg,12526,Bohnsdorf
+Reinbeckstraße,12459,Oberschöneweide
+Relingstraße,12527,Grünau
+Renettenweg,12524,Altglienicke
+Rethelstraße,12437,Plänterwald
+Rhedaer Weg,12589,Rahnsdorf
+Rheingold KGA?,12524,Altglienicke
+Rialtoring,12589,Rahnsdorf
+Richard-Hilliges-Weg,12589,Rahnsdorf
+Richard-Hörnke-Weg,12589,Rahnsdorf
+Richard-Willstätter-Str.,12489,Adlershof
+Richterstraße,12526,Bohnsdorf
+Richterstraße,12524,Altglienicke
+Riebekeweg,12557,Köpenick
+Riedgrasweg,12524,Altglienicke
+Rießerseestraße,12527,Grünau
+Ringelblumenweg,12526,Bohnsdorf
+Ringweg,12526,Bohnsdorf
+Rinkartstraße,12437,Baumschulenweg
+Rinntaler Steig,12559,Müggelheim
+Rita-Maiburg-Straße,12526,Bohnsdorf
+Rixdorfer Straße,12487,Johannisthal
+Rodelbergweg,12437,Baumschulenweg
+Rodenbacher Gang,12559,Müggelheim
+Rodenkirchener Straße,12524,Altglienicke
+Rodestraße,12559,Müggelheim
+Roedernstraße,12459,Oberschöneweide
+Rohrwallallee,12527,Schmöckwitz
+Rollettweg,12487,Johannisthal
+Rombiner Weg,12555,Köpenick
+Rosenrotweg,12526,Bohnsdorf
+Rosenstraße,12437,Baumschulenweg
+Rosenstraße,12487,Johannisthal
+Rosenstraße,12555,Köpenick
+Rosenweg,12524,Altglienicke
+Rosestraße,12524,Altglienicke
+Rotkäppchenstraße,12555,Köpenick
+Rotkehlchenweg,12589,Rahnsdorf
+Ruben-Wolf-Straße,12524,Altglienicke
+Rübezahlallee,12524,Altglienicke
+Rubusweg,12524,Altglienicke
+Rudolf-Rühl-Allee,12459,Oberschöneweide
+Rudower Chaussee,12489,Adlershof
+Rudower Straße,12557,Köpenick
+Rudower Straße,12439,Niederschöneweide
+Rummelsburger Landstraße,12459,Oberschöneweide
+Rummelsburger Straße,12459,Oberschöneweide
+Rumplerzeile,12487,Johannisthal
+Rutherfordstr.,12489,Adlershof
+Saarower Weg,12589,Rahnsdorf
+Sachsenstraße,12524,Altglienicke
+Salierstraße,12524,Altglienicke
+Salvador-Allende-Straße,12559,Köpenick
+Sandbacher Weg,12526,Bohnsdorf
+Sanddornstraße,12439,Niederschöneweide
+Sandowitzer Platz,12526,Bohnsdorf
+Sandschurrepfad,12557,Köpenick
+Saturnring,12524,Altglienicke
+Sausenberger Straße,12526,Bohnsdorf
+Schachtelhalmweg,12524,Altglienicke
+Schappachstraße,12527,Schmöckwitz
+Scharnweberstraße,12459,Oberschöneweide
+Scharnweberstraße,12587,Friedrichshagen
+Schattenweg,12524,Altglienicke
+Scheiblerstraße,12437,Baumschulenweg
+Schettkatstraße,12589,Rahnsdorf
+Schilfsängersteig,12527,Grünau
+Schillerpromenade,12459,Oberschöneweide
+Schillerstraße,12526,Bohnsdorf
+Schirmpilzstraße,12526,Bohnsdorf
+Schirnerstraße,12524,Altglienicke
+Schleiengang,12589,Rahnsdorf
+Schlichtingsheimer Weg,12526,Bohnsdorf
+Schlierseestraße,12527,Grünau
+Schlossinsel,12557,Köpenick
+Schmale Gasse,12559,Köpenick
+Schmale Straße,12555,Köpenick
+Schmaler Weg,12587,Friedrichshagen
+Schmausstraße,12555,Köpenick
+Schmetterlingshorst,12557,Köpenick
+Schmöckwitzer Damm,12527,Schmöckwitz
+Süd,12527,Schmöckwitz
+Schmollerplatz,12435,Alt-Treptow
+Schmollerstraße,12435,Alt-Treptow
+Schneckenburgerstraße,12489,Adlershof
+Schneewittchenstraße,12524,Altglienicke
+Schneewittchenstraße,12555,Köpenick
+Schnellerstraße,12439,Niederschöneweide
+Schönblicker Straße,12589,Rahnsdorf
+Schönecker Weg,12555,Köpenick
+Schönefelder Chaussee,12524,Altglienicke
+Schöneicher Landstraße,12589,Rahnsdorf
+Schöneicher Straße,12587,Friedrichshagen
+Schönerlinder Straße,12557,Köpenick
+Schönhorster Straße,12559,Müggelheim
+Schöntaler Weg,12437,Baumschulenweg
+Schonungsweg,12589,Rahnsdorf
+Schraderstraße,12437,Baumschulenweg
+Schrebergasse,12559,Köpenick
+Schubertstraße,12555,Köpenick
+Schulzendorfer Straße,12526,Bohnsdorf
+Schüßlerplatz,12555,Köpenick
+Schützenstraße,12524,Altglienicke
+Schwalbenweg,12524,Altglienicke
+Schwanenweg,12589,Rahnsdorf
+Schwarzer Weg,12527,Schmöckwitz
+Schwarzer Weg,12487,Johannisthal
+Schwarzkoppenstraße,12524,Altglienicke
+Schwarzschildstraße,12489,Adlershof
+Schwindstraße,12437,Plänterwald
+Sebaldweg,12524,Altglienicke
+Seddiner Weg,12559,Müggelheim
+Seddinpromenade,12527,Schmöckwitz
+Seelenbinderstraße,12555,Köpenick
+Seestraße,12589,Rahnsdorf
+Segelfliegerdamm,12487,Johannisthal
+Segewaldweg,12557,Köpenick
+Seidenbaustraße,12489,Adlershof
+Seidenbienenweg,12589,Rahnsdorf
+Selchowstraße,12489,Adlershof
+Semliner Straße,12555,Köpenick
+Semmelweisstraße,12524,Altglienicke
+Semnonenweg,12524,Altglienicke
+Sieboldstraße,12524,Altglienicke
+Siebweg,12526,Bohnsdorf
+Siedlers Eck,12527,Schmöckwitz
+Siedlung 10,12437,Baumschulenweg
+Siedlung am Walde,12589,Wilhelmshagen
+Siefersheimer Straße,12559,Müggelheim
+Siegfried-Berger-Straße,12557,Köpenick
+Sielower Weg,12527,Schmöckwitz
+Siemensstraße,12459,Oberschöneweide
+Silberberger Straße,12489,Adlershof
+Silbergrasweg,12439,Niederschöneweide
+Silberlinde KGA,12437,Baumschulenweg
+Siriusstraße,12524,Altglienicke
+Slabystraße,12459,Oberschöneweide
+Slevogtweg,12557,Köpenick
+Sobernheimer Straße,12559,Müggelheim
+Sommerwiesenweg,12557,Köpenick
+Sonnenallee,12437,Baumschulenweg
+Sorbenstraße,12524,Altglienicke
+Späthsfelder Weg,12437,Baumschulenweg
+Späthstraße,12437,Baumschulenweg
+Späthswalde KGA,12487,Johannisthal
+Spechtstraße,12526,Bohnsdorf
+Sperberstraße,12526,Bohnsdorf
+Sperlingsweg,12437,Baumschulenweg
+Spindlergasse,12555,Köpenick
+Spindlersfelder Straße,12555,Köpenick
+Spinnpfad,12555,Köpenick
+Spitzerstraße,12557,Köpenick
+Spitzwegerichweg,12587,Friedrichshagen
+Sportfliegerstraße,12487,Johannisthal
+Sportpromenade,12527,Schmöckwitz
+Spreepromenade,12587,Friedrichshagen
+Spreeschlossstraße,12459,Oberschöneweide
+Spreestraße,12587,Friedrichshagen
+Spreestraße,12559,Müggelheim
+Spreestraße,12439,Niederschöneweide
+Spreestraße,12555,Köpenick
+Springbornstraße,12487,Johannisthal
+Springeberger Weg,12589,Rahnsdorf
+Stahnweg,12557,Köpenick
+Staudenweg,12487,Johannisthal
+Staudernheimer Straße,12559,Müggelheim
+Stechapfelweg,12524,Altglienicke
+Steffelbauerstraße,12459,Oberschöneweide
+Steinbachstraße,12489,Adlershof
+Steinbindeweg,12527,Grünau
+Steinbrechgang,12559,Müggelheim
+Steinfurther Weg,12589,Rahnsdorf
+Steinhöfeler Weg,12589,Rahnsdorf
+Steinplatz,12587,Friedrichshagen
+Stellingdamm,12555,Köpenick
+Sternallee,12587,Friedrichshagen
+Sternblütenweg,12526,Bohnsdorf
+Sterndamm,12439,Johannisthal
+Sterntalerstraße,12555,Köpenick
+Stienitzseestraße,12587,Friedrichshagen
+Stienitzseestraße,12489,Adlershof
+Stillerzeile,12587,Friedrichshagen
+Storchschnabelweg,12587,Friedrichshagen
+Störitzseestraße,12587,Friedrichshagen
+Stormstraße,12437,Baumschulenweg
+Strandschloßweg,12559,Köpenick
+Straße 207,12487,Johannisthal
+Straße am Flugplatz,12487,Johannisthal
+Straße im Walde,12555,Köpenick
+Straße nach Fichtenau,12589,Rahnsdorf
+Straße zum FEZ,12459,Oberschöneweide
+Straße zum Müggelhort,12559,Köpenick
+Straße zum Müggelturm,12559,Köpenick
+Straße zur Krampenburg,12559,Müggelheim
+Striesower Weg,12527,Schmöckwitz
+Strohblumenweg,12524,Altglienicke
+Stromstraße,12526,Bohnsdorf
+Stubenrauchstraße,12487,Johannisthal
+Stuckstraße,12437,Plänterwald
+Südostallee,12487,Johannisthal
+Südostallee,12437,Baumschulenweg
+Südpol KGA,12437,Baumschulenweg
+Südstraße,12487,Johannisthal
+Suevenstraße,12524,Altglienicke
+Süßer Grund,12489,Adlershof
+Tabbertstraße,12459,Oberschöneweide
+Taubnesselweg,12524,Altglienicke
+Tauchersteig,12527,Grünau
+Tegernseestraße,12527,Grünau
+Teichhuhnsteig,12526,Bohnsdorf
+Teichmummelring,12527,Grünau
+Teichrohrweg,12524,Altglienicke
+Teltowkanal I,12437,Baumschulenweg
+Teltowkanal III,12489,Adlershof
+Teutonenstraße,12524,Altglienicke
+Thelenstraße,12489,Adlershof
+Theodor-Körner-Straße,12526,Bohnsdorf
+Thomas-Müntzer-Straße,12489,Adlershof
+Thujaweg,12437,Baumschulenweg
+Thürnagelstraße,12555,Köpenick
+Tiburtiusstraße,12524,Altglienicke
+Tiefland KGA,12437,Baumschulenweg
+Tollkirschenweg,12524,Altglienicke
+Tongrubenweg,12559,Müggelheim
+Traudelstr.,12524,Altglienicke
+TreidelwegKGA KGA,12437,Baumschulenweg
+Treppendorfer Weg,12527,Schmöckwitz
+Treptower Str.,12435,Alt-Treptow
+Treptows Ruh A KGA,12435,Treptow
+Treskowallee,12459,Oberschöneweide
+Treskowstraße,12459,Oberschöneweide
+Triglawstraße,12589,Rahnsdorf
+Triniusstraße,12459,Oberschöneweide
+Trojanstraße,12437,Baumschulenweg
+Tronjeweg,12487,Johannisthal
+Trützschlerstraße,12487,Johannisthal
+Tulpenweg,12437,Baumschulenweg
+Tulpenweg,12524,Altglienicke
+Uferweg Tabbertstraße,12459,Oberschöneweide
+Uhlenhorster Straße,12555,Köpenick
+Ukeleipfad,12589,Rahnsdorf
+Unter den Birken,12555,Köpenick
+Unter der Kranbahn,12459,Oberschöneweide
+Uranustraße,12524,Altglienicke
+Usedomstraße,12524,Altglienicke
+Uteweg,12487,Johannisthal
+Venusstraße,12524,Altglienicke
+Vereinsstraße,12487,Johannisthal
+Vergissmeinnichtweg,12526,Bohnsdorf
+Verlängerte Hämmerlingstraße,12555,Köpenick
+Verlängerte Mozartstraße,12555,
+Verlängerte Rathenaustr.,12459,Oberschöneweide
+Verlängerte Semmelweisstraße,12524,Altglienicke
+Verlängerte Werderstraße,12524,Altglienicke
+Verlängerter Bruno-BürgelWeg,12439,Niederschöneweide
+Vetschauer Allee,12527,Schmöckwitz
+Viebahnstraße,12527,Schmöckwitz
+Vimystraße,12489,Adlershof
+Vogelbeerstraße,12489,Adlershof
+Vogelsdorfer Steig,12589,Rahnsdorf
+Volkerweg KGA?,12487,Johannisthal
+Volmerstraße,12489,Adlershof
+Wachtelstraße,12526,Bohnsdorf
+Wagner-Régeny-Straße,12489,Adlershof
+Waiblinger Weg,12487,Johannisthal
+Walaweg,12487,Johannisthal
+Walchenseestraße,12527,Grünau
+Waldburgweg,12555,Köpenick
+Waldesgrund KGA,12437,Baumschulenweg
+Waldfrieden KGA,12524,Altglienicke
+Waldfrieden I KGA,12437,Baumschulenweg
+Waldkieferring,12527,Grünau
+Waldland KGA,12439,Niederschöneweide
+Waldnesselweg,12557,Köpenick
+Waldowplatz,12459,Oberschöneweide
+Waldowstraße,12459,Oberschöneweide
+Waldpromenade,12555,Köpenick
+Waldschützpfad,12589,Rahnsdorf
+Waldstraße,12589,Rahnsdorf
+Waldstraße,12487,Johannisthal
+Waldstraße,12526,Bohnsdorf
+Waldstraße,12527,Grünau
+Waldstraße,12527,Schmöckwitz
+Waldstraße,12489,Adlershof
+Waldvogelweg,12527,Grünau
+Waldweg,12487,Johannisthal
+Waltersdorfer Straße,12526,Bohnsdorf
+Walther-Huth-Straße,12487,Johannisthal
+Walther-Nernst-Straße,12489,Adlershof
+Waltraud-Krause-Weg,12459,Oberschöneweide
+Warnowstraße,12524,Altglienicke
+Wassermannstraße,12489,Adlershof
+Wassersportallee,12527,Grünau
+Wasserstraße,12459,Oberschöneweide
+Wasserweg,12437,Baumschulenweg
+Wattstraße,12459,Oberschöneweide
+Weerthstraße,12489,Adlershof
+Weg 7,12459,Oberschöneweide
+Weg A bis U,12559,Müggelheim
+Weg zur Quelle,12587,Friedrichshagen
+Wegedornstraße,12524,Altglienicke
+Weichselmünder Weg,12589,Rahnsdorf
+Weidenkätzchenweg,12526,Bohnsdorf
+Weidenweg,12524,Altglienicke
+Weiderichplatz,12439,Niederschöneweide
+Weiderichstraße,12439,Niederschöneweide
+Weinbergstraße,12555,Köpenick
+Weiselpfad,12527,Schmöckwitz
+Weiskopffstraße,12459,Oberschöneweide
+Wendel-Hipler-Weg,12527,Schmöckwitz
+Wendenschloßstraße,12559,Köpenick
+Wendenstraße,12524,Altglienicke
+Werderstraße,12524,Altglienicke
+Werlseestraße,12587,Friedrichshagen
+Wernsdorfer Straße,12527,Schmöckwitz
+Westendstraße,12557,Köpenick
+Weststraße,12487,Johannisthal
+Widosteig,12524,Altglienicke
+Wiebelskircher Weg,12589,Rahnsdorf
+Wiesbacher Weg,12559,Müggelheim
+Wiesengrund KGA,12587,Friedrichshagen
+Wiesenpromenade,12587,Friedrichshagen
+Wiesenstraße,12589,Rahnsdorf
+Wiesenstraße,12559,Müggelheim
+Wiesenstraße,12526,Bohnsdorf
+Wildenbruchstraße,12435,Alt-Treptow
+Wilhelm-Hoff-Straße,12489,Adlershof
+Wilhelmine-Duncker-Straße,12526,Bohnsdorf
+Wilhelminenhofstraße,12459,Oberschöneweide
+Wilhelm-Ostwald-Str.,12489,Adlershof
+Willi-Sänger-Straße,12437,Plänterwald
+Willi-Schwabe-Straße,12489,Adlershof
+Winckelmannstraße,12487,Johannisthal
+Windwallstraße,12527,Schmöckwitz
+Wirsitzer Weg,12555,Köpenick
+Wißlerstraße,12587,Friedrichshagen
+Wodanstraße,12589,Rahnsdorf
+Wohlauer Straße,12526,Bohnsdorf
+Wohlgemuthstraße,12437,Baumschulenweg
+Wolfgang-Harlan-Straße,12487,Johannisthal
+Wolfgang-Liebe-Straße,12489,Adlershof
+Wolfgang-Steinitz-Straße,12589,Rahnsdorf
+Wolfmarsteig,12524,Altglienicke
+Wolfsgartenstraße,12555,Köpenick
+Wolfsteiner Weg,12559,Müggelheim
+Wollgrasweg,12559,Müggelheim
+Woltersdorfer Landstraße,12589,Rahnsdorf
+Woltersdorfer Weg,12589,Rahnsdorf
+Wongrowitzer Steig,12555,Köpenick
+Wotanstraße,12487,Johannisthal
+Wotanweg,12487,Johannisthal
+Wrightallee,12487,Johannisthal
+Wrobelstraße,12587,Friedrichshagen
+Wunnibaldstraße,12524,Altglienicke
+Wünschelburger Gang,12489,Adlershof
+Wupatzseestraße,12587,Friedrichshagen
+Würmseestraße,12527,Grünau
+Zaucher Weg,12527,Schmöckwitz
+Zeesener Weg,12489,Rahnsdorf
+Zeppelinstraße,12459,Oberschöneweide
+Zerkwitzer Weg,12527,Schmöckwitz
+Zeuthener Weg,12527,Schmöckwitz
+Zinsgutstraße,12489,Adlershof
+Zu den Gosener Bergen,12527,Schmöckwitz
+Zu den Müggelheimer Wiesen,12559,Müggelheim
+Zu den Sieben Raben,12555,Köpenick
+Zum Alten Windmühlenberg,12524,Altglienicke
+Zum Dahmeufer,12557,Köpenick
+Zum Großen Windkanal,12489,Adlershof
+Zum Kiesgrund,12559,Müggelheim
+Zum Langen See,12557,Köpenick
+Zum Rehwinkel,12559,Müggelheim
+Zum Schmetterlingshorst,12559,Köpenick
+Zum Seeblick,12527,Schmöckwitz
+Zum Trudelturm,12489,Adlershof
+Zum Wuhleblick,12555,Köpenick
+Zur Bürgerheide,12559,Müggelheim
+Zur Drachenwiese,12559,Müggelheim
+Zur Fähre,12559,Müggelheim
+Zur Gartenstadt,12526,Bohnsdorf
+Zur Großen Krampe,12559,Müggelheim
+Zur Güterbahn,12555,Köpenick
+Zur Holzoper,12489,Adlershof
+Zur Nachtheide,12557,Köpenick
+Zur Rothen Laake,12489,Altglienicke
+Zur Uferbahn,12527,Grünau

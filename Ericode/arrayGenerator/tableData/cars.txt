@@ -1,0 +1,83 @@
+Abarth
+Aiways
+Aixam
+Alfa Romeo
+ALPINA
+Alpine
+ARI Motors
+Aston Martin
+Audi
+Bentley
+BMW
+Bugatti
+BYD
+Cadillac
+Casalini
+Chevrolet
+Chrysler
+Citroen
+CUPRA
+Dacia
+Daihatsu
+Dodge
+DS Automobiles
+e.GO Mobile
+Elaris
+Electric Brands
+Ferrari
+Fiat
+Fisker
+Ford
+Genesis
+Honda
+Hyundai
+Ineos
+Infiniti
+Isuzu
+Jaguar
+Jeep
+KIA
+Lada
+Lamborghini
+Lancia
+Land Rover
+Lexus
+Ligier
+Lotus
+Lucid
+Lynk & Co
+Maserati
+Maxus
+Mazda
+McLaren
+Mercedes-Benz
+MG
+Micro
+Microcar
+MINI
+Mitsubishi
+Morgan
+NIO
+Nissan
+Opel
+ORA
+Peugeot
+Polestar
+Porsche
+Renault
+Rolls-Royce
+SEAT
+SERES
+Skoda
+smart
+Sono Motors
+SsangYong
+Subaru
+Suzuki
+Tesla
+Togg
+Toyota
+VinFast
+Volvo
+VW
+WEY
