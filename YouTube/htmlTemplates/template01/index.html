@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <script src="template01.js" defer></script>
+  <title>Template01</title>
+</head>
+<body>
+<div id="table"></div>
+<template id="tableHead">
+  <div>
+    <span class="cell blue" id="th1">head 1</span>
+    <span class="cell blue" id="th2">head 2</span>
+    <span class="cell blue" id="th3">head 3</span>
+    <span class="cell blue" id="th4">head 4</span>
+  </div>
+</template>
+<template id="tableRow">
+  <div>
+    <span class="cell" data-col="1" data-row>col 1</span>
+    <span class="cell" data-col="2" data-row>col 2</span>
+    <span class="cell" data-col="3" data-row>col 3</span>
+    <span class="cell" data-col="4" data-row>col 4</span>
+  </div>
+</template>
+<div id="app"></div>
+<template id="sample">
+  <h1 class="title"></h1>
+  <p class="desc"></p>
+  <small class="category"></small>
+  <div><strong class="date"></strong> - <span class="topic"></span></div>
+</template>
+</body>
+</html>

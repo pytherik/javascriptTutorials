@@ -1,0 +1,17 @@
+:root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    width: 30rem;
+    margin: 5rem auto 0;
+    text-align: justify;
+}

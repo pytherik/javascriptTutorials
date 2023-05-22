@@ -1,0 +1,29 @@
+:root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: #dedede;
+}
+
+.address-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: .35rem;
+}
+
+.address {
+    border: 1px solid #aaa;
+    padding: .5rem;
+}
+
+.address > .street {
+    margin-bottom: .33rem;
+}
+
+.address > .district {
+    font-size: .9rem;
+}

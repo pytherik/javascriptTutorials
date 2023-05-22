@@ -1,0 +1,21 @@
+:root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: #dedede;
+}
+
+.cell {
+    background-color: #aaa;
+    color: #212121;
+    width: 120px;
+    height: 1.4rem;
+}
+
+.blue {
+    background-color: #62CDFF;
+}

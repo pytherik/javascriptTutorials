@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ajax & PHP Forms</title>
+  <link rel="stylesheet" href="public/css/style.css">
+  <script defer src="public/js/app.js"></script>
+</head>
+<body>
+<div id="users" class="text">
+  <h1>POST Form</h1>
+  <form action="process.php" method="post">
+    <input type="text" name="name">
+    <input type="submit" value="send name">
+  </form>
+  <h1>GET Form</h1>
+  <form action="process.php" method="get">
+    <input type="text" name="name">
+    <input type="submit" value="send name">
+  </form>
+  <h1>Ajax GET Form</h1>
+  <form id="getForm">
+    <input type="text" name="name" id="name1">
+    <input type="submit" value="send name">
+  </form>
+  <h1>Ajax POST Form</h1>
+  <form id="postForm">
+    <input type="text" name="name" id="name2">
+    <input type="submit" value="send name">
+  </form>
+</div>
+<button id="button">get name</button>
+
+</body>
+</html>

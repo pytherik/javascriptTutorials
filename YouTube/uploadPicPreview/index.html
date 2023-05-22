@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js" defer></script>
+  <script src="upload01.js" defer></script>
+  <title>Pic Upload with Preview</title>
+</head>
+<body>
+<div class="container">
+  <input type="file" id="file" accept="image/*" hidden>
+  <div class="img-area" data-img="hello.png">
+    <box-icon class="icon" name='upload'></box-icon>
+    <h3>Bild hochladen</h3>
+    <p>Bildgrösse max <span>2MB</span></p>
+<!--    <img src="https://picsum.photos/500" alt="">-->
+  </div>
+  <button class="select-image">bild wählen</button>
+</div>
+
+</body>
+</html>
