@@ -1,0 +1,15 @@
+node.js must be installed on computer
+
+sudo npm i -g sass
+sudo npm i --global less
+
+ceate style.scss
+
+start watching:
+
+sass style.scss:style.css
+
+index.html
+
+<link rel="stylesheet" href="style.css">  //info link to css, not scss!
+

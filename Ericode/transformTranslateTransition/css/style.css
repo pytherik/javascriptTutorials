@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: #ddd;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+#trans {
+    position: relative;
+    font-size: 2rem;
+    transition: font-size 2s ease-in;
+}
+
+#trans.clicked {
+    font-size: 5rem;
+    transition: font-size 2s ease-in;
+}
+
+#trans::after {
+    position: absolute;
+    content: ' click';
+    transform: translateX(200px) rotate(0);
+    font-size: 0;
+    opacity: 0;
+    transition:
+            opacity .5s ease-out,
+            transform .5s ease-out,
+            font-size .5s ease-out;
+}
+
+#trans:hover::after {
+    opacity: 1;
+    transform: translateX(1rem) rotate(360deg);
+    font-size: 2rem;
+    transition:
+            opacity .5s ease-in,
+            transform .5s ease-in,
+            font-size .5s ease-in;
+}
+
+#trans::before {
+    position: absolute;
+    content: 'tu\'s nicht';
+    width: 0;
+    height: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:#cc331155;
+    border-radius: 50%;
+    font-size: 0;
+    opacity: 0;
+    transition:
+            opacity .5s ease-out;
+}
+
+#trans:hover::before {
+    opacity: 1;
+    font-size: 2rem;
+    width: 10rem;
+    height: 10rem;
+    bottom: 5rem;
+    left: -5rem;
+    transition:
+            opacity .5s .5s ease-in,
+            width .5s .5s ease-in,
+            height .5s .5s ease-in,
+            font-size .5s .5s ease-in;
+}

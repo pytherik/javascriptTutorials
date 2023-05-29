@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/*wiki
+   rotate(deg) rotate(.25turn)
+   rotate3d()
+   rotateX(Xdeg)
+   rotateY(Ydeg)
+   rotateZ(Zdeg)
+   -------------
+   scale(Xdeg, Ydeg)
+   scaleX(deg)
+   scaleY(deg)
+   -------------
+   translate(30px) 30px nach rechts (-30px nach links)
+   translateX()
+   translateY()
+   translateZ()
+   translate3d()
+   ------------
+   skew()
+   skewX()
+   skewY()
+   */
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #444;
+    color: #ddd;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.container {
+    /*position: relative;*/
+    background-color: hsl(200, 70%, 30%);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.container {
+    /*transform: rotate(.10turn);*/
+    /*transform: rotate(75deg);*/
+    /*transform: scale(1.5, 2);*/
+    /*transform: translate(30px);*/
+    /*transform: translate(30px, -30pX);*/
+    /*info hardcoded values of a multi-transform must all be overridden
+       if a change on a single property becomes necessary
+     */
+    /*transform: rotate(20deg) translate(100px) skew(10deg) scale(1.6 );*/
+    /*info so it is better to use varirables instead of absolute values*/
+    transform: rotate(var(--rotate, 20deg)) scale(var(--scale, 1.3));
+}
+
+.big {
+    --scale: 2;
+    --rotate: 30deg;
+}
+/*.container::after {*/
+/*    position: absolute;*/
+/*    content: 'after';*/
+/*    top: 0;*/
+/*    !*left: 50%;*!*/
+/*    background-color: #9CA777;*/
+/*    !*transform: translate(-50%,-50%);*!*/
+/*}*/

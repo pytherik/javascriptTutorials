@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/*link https://www.youtube.com/watch?v=zGiirUiWslI*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: #ddd;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+/*wiki a single colon ':' - pseudo-class (a:hover),
+       a double colon ':: - pseudo-element
+       */
+
+/*info It's not possible to use the elements in an img.
+   Img tags have no content, they are the content...*/
+
+p::before,
+p::after {
+    /*info - 'content' must be included to let the pseudo-element work
+           - The content is placed inside the p element, not outside of it.
+           - It has individual styling
+           - used instead of creating empty divs as design elements*/
+    content: '';
+    background-color: #9CA777;
+    display: block;
+    width: 100%;
+    height: 1px;
+    margin: 4px 0;
+}
+
+p::after {
+    content: 'this is an ::after pseudo-element';
+    height: 10px;
+    font-size: 8px;
+    color: #000;
+}
