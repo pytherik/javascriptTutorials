@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: #ddd;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+}
+
+.pic {
+    width: 800px;
+    height: 1200px;
+    background-size: cover;
+}
+
+.pic1 {
+    background-image: url('//source.unsplash.com/collection/888146/300x300');
+
+}
+
+.pic2 {
+    background-image: url('//loremflickr.com/400/600/dog');
+}
+
+.pic3 {
+    background-image: url('//loremflickr.com/400/300/cat');
+}

@@ -11,7 +11,7 @@ body {
 
 .fill {
     background-image: url('https://picsum.photos/150');
-    position:relative;
+    position: relative;
     width: 150px;
     height: 150px;
     top: 5px;
