@@ -61,6 +61,16 @@ const addTax = (rate, value) => value + value * rate;
 
 console.log(addTax(.1, 200));
 
-const addVAT = addTax.bind(null, .23);
+// const addVAT = addTax.bind(null, .23);
 
-console.log(addVAT(100));
+// console.log(addVAT(100));
+const vat = function(rate) {
+  return function (value) {
+    console.log(value + rate * value);
+  };
+}
+
+const addVAT = vat(.23);
+
+
+console.log(addVAT(200));
