@@ -1,28 +1,22 @@
-const test = document.getElementById('test');
-const restaurant = {
-  name: 'Zur Henkersmahlzeit',
-  location: 'Schmutzgasse 13, Stragele, Baden-Würggemberg',
-  categories: ['Deutsch', 'Hausmannskost', 'Fleisch', 'Eigener Stall'],
-  lastMeal: ['Blutwurst', 'Pellkartoffeln', 'Wurstsalat', 'Altbier'],
-  dessert: ['schlimme Augenwurst', 'kalter Hund', 'falscher Hase'],
-  openingHours: {
-    do: {
-      von: 12,
-      bis: 22
-    },
-    fr: {
-      von: 12,
-      bis: 24
-    },
-    sa: {
-      von: 0,
-      bis: 24
-    }
-  },
-  order: function(lastMealIdx, dessertIdx) {
-    return [this.lastMeal[lastMealIdx], this.dessert[dessertIdx]];
-  }
-}
-const {fr} = restaurant.openingHours;
-console.log(fr);
-test.innerText = `von:${fr.von} bis:${fr.bis}`;
+'use strict'
+
+//info number conversion and methods
+
+console.log(23 === +'23'); // true
+
+console.log(Number.parseInt(' 30px ')); // 30
+console.log(Number.parseFloat(' 2.7 rem')); // 2.7
+
+//info check if conversion results in NaN
+console.log(Number.isNaN(+'erik')); // true
+console.log(Number.isNaN(30 / 0));  // false (infinity !== NaN)
+console.log(Number.isNaN('erik'));  // false (string !== NaN)
+console.log(Number.isNaN(20));      // false (Number !== NaN)
+
+//info better method for checking if value is a number
+console.log(Number.isFinite('erik')); // false
+console.log(Number.isFinite(20));     // true
+
+console.log(Number.isInteger(23.234));// false
+console.log(Number.isInteger(23));    // true
+
