@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 //nice Selecting elements
 
@@ -36,7 +36,7 @@ sections[1].prepend(message);
 
 const hint = document.createElement('div');
 hint.classList.add('head-h3');
-hint.innerText = 'We got Mangos --- We got Water Mellons---'
+hint.innerText = 'We got Mangos --- We got Water Mellons---';
 
 sections[0].append(hint);
 //info DOM elements are unique,
@@ -99,3 +99,77 @@ console.log('data attribute from dataset: ', pic.dataset.versionNumber);
  */
 
 pic.className = 'class-a class-b';
+
+//nice location of elements and window scroll
+
+const btnScrollTo = document.querySelector('.btn--scroll-to');
+const section1 = document.querySelector('#section--1');
+
+btnScrollTo.addEventListener('click', (e) => {
+  const s1coords = section1.getBoundingClientRect();
+  console.log(s1coords);
+
+  console.log(e.target.getBoundingClientRect());
+  console.log('Current Scroll (X/Y): ', window.pageXOffset, pageYOffset);
+  console.log('height/width viewport: ', document.documentElement.clientHeight, document.documentElement.clientWidth);
+});
+
+
+//nice events and event Handlers
+const head1 = document.querySelector('.head-h1');
+
+//info addEventHandler kann man mehrfach mit
+// verschiedenen functions auf ein Element anwenden,
+// während onmouse Events überschrieben werden.
+
+//info wenn man mehrere functions braucht:
+// named functions verwenden!
+const alertH1 =(e) => {
+  alert('mouseenter happening');
+  //info alertH1 wird nach erstem Eintreten wieder entfernt
+  head1.removeEventListener('mouseenter', alertH1);
+}
+head1.addEventListener('mouseenter', alertH1);
+
+
+//info oldschool deprecated
+// head1.onmouseenter = function(e) {
+//   alert('Mouseenter h1');
+// };
+
+//nice event propagation in practice
+// (capturing and bubbling)
+
+//info by default event listeners react to bubbling events,
+// capturing events are ignored
+
+//info random number generator
+const randomInt = (min, max) =>
+  Math.floor(Math.random() *
+    (max - min) + min);
+
+const randomColor = () => `rgb(${randomInt(0, 255)},${randomInt(0, 255)},${randomInt(0, 255)})`;
+console.log(randomColor());
+
+document.getElementById('btn-3').addEventListener('click', function(e) {
+  console.log('click btn3', e.target, e.currentTarget);
+  this.style.background = randomColor();
+  console.log(e.currentTarget === this);
+  //info stop propagation, in general not a good idea
+  // but in specific cases may solve problems
+  e.stopPropagation();
+})
+
+document.getElementById('section--1').addEventListener('click', function(e) {
+  console.log('click sec1', e.target, e.currentTarget);
+  this.style.background = randomColor();
+  console.log(e.currentTarget === this);
+  //info by setting the third property of the eventListener to true,
+  // it will react on capturing events
+}, true)
+
+document.querySelector('.testing').addEventListener('click', function(e) {
+  console.log('click div.testing', e.target, e.currentTarget);
+  this.style.background = randomColor();
+  console.log(e.currentTarget === this);
+})

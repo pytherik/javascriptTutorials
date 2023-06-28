@@ -29,4 +29,6 @@ body {
     color: #bbb;
     font-size: 1.6rem;
 }
-
+.section {
+    padding: 2rem;
+}
