@@ -83,3 +83,52 @@ document.querySelector('.nav__links').addEventListener(
 //     document.querySelector(id).scrollIntoView({ behavior: 'smooth' })
 //   })
 // })
+
+///////////////////////////////////////////////
+
+//nice DOM Traversing
+
+const h1 = document.querySelector('h1');
+
+//info going downwards: child
+console.log(h1.querySelectorAll('.highlight'));
+
+//info childnodes includes every content (comments, text...)
+// use indexing to get hold of a specific node
+console.log(h1.childNodes[1]);
+
+//info children contains HTMLCollection (only for direct children)
+console.log(h1.children);
+
+//info firstElementChild = span.highlight
+h1.firstElementChild.style.color = '#883300';
+
+
+//info going upwards: parent
+console.log(h1.parentNode);
+console.log(h1.parentElement);
+
+//info set custom property for closest .header element
+// use .closest for event-delegation
+console.log(h1.closest('.header'));
+h1.closest('.header').style.background = 'var(--gradient-secondary)';
+
+/*wiki
+    querySelector selects child elements,
+    closest selects parent elements
+ */
+
+//info going sideways: siblings
+console.log(h1.previousElementSibling); // null because h1 is the first child element
+console.log(h1.nextElementSibling);
+
+console.log(h1.previousSibling);
+console.log(h1.nextSibling);
+
+//info to get all siblings, move to parent element and get its children
+console.log(h1.parentElement.children);// also includes itself
+
+// spread operator to convert nodeList to array
+[...h1.parentElement.children].forEach(function(el) {
+  if(el !== h1) el.style.transform = 'scale(0.5)'
+});
