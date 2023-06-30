@@ -20,5 +20,15 @@ function facLoop(n) {
     return res;
 }
 
+function facWhile(n){
+    let res = 1;
+    while(n > 0) {
+        res = res * n;
+        n--;
+    }
+    return res;
+}
+
+console.log(facWhile(6));
 console.log(faculty(6));
 console.log(facLoop(6));
