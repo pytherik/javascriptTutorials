@@ -124,10 +124,15 @@ img {
   z-index: 100;
 }
 
+.nav-hidden {
+  opacity: 0;
+}
 /* nav and stickly class at the same time */
 .nav.sticky {
   position: fixed;
   background-color: rgba(255, 255, 255, 0.95);
+  opacity: 1;
+  transition: 0.5s opacity ease-in;
 }
 
 .nav__logo {
@@ -165,7 +170,6 @@ img {
 
 .nav__link--btn:hover,
 .nav__link--btn:active {
-  color: inherit;
   background-color: var(--color-primary-darker);
   color: #333;
 }
@@ -458,7 +462,7 @@ h4 {
 }
 
 .dots__dot--active {
-  /* background-color: #fff; */
+   /*background-color: #fff;*/
   background-color: #888;
   opacity: 1;
 }
