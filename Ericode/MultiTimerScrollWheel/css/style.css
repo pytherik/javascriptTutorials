@@ -20,7 +20,7 @@ body {
     overflow: hidden;
 }
 
-.set-timer {
+.time-container {
     border: 1px solid #aaa;
     padding: .5rem;
     font-size: 3rem;
