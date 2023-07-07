@@ -32,4 +32,3 @@ timeContainer.addEventListener('wheel', (e) => {
   console.log([...arr.slice(+e.target.dataset.t),
     ...arr.slice(0,+e.target.dataset.t)]);
 });
-
